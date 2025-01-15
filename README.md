@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
   <p>
     <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
@@ -468,3 +469,6 @@ For YOLOv5 bug reports and feature requests please visit [GitHub Issues](https:/
 </div>
 
 [tta]: https://docs.ultralytics.com/yolov5/tutorials/test_time_augmentation
+=======
+# detect-task
+>>>>>>> 8bbfd6024a6453b88ca2f3e24f1c5358ec2ef8d6
